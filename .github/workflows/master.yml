@@ -13,10 +13,12 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Set url 👨‍💻
+      - name: Git configurations 👨‍💻
         run: |
           git remote set-url origin https://vinaykakkad:${{ secrets.GH_TOKEN }}@github.com/vinaykakkad/club-orientation
-
+          git config --global user.name 'vinaykakkad'
+          git config --global user.email 'kakkadvinay25@gmail.com'
+          
       - name: Install, Build and Deploy 🚀
         run: |
           npm i
