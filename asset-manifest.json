@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/club-orientation/static/css/main.3130d5d7.chunk.css",
-    "main.js": "/club-orientation/static/js/main.af4957d1.chunk.js",
-    "main.js.map": "/club-orientation/static/js/main.af4957d1.chunk.js.map",
+    "main.js": "/club-orientation/static/js/main.16d782c9.chunk.js",
+    "main.js.map": "/club-orientation/static/js/main.16d782c9.chunk.js.map",
     "runtime-main.js": "/club-orientation/static/js/runtime-main.b6b8ffa7.js",
     "runtime-main.js.map": "/club-orientation/static/js/runtime-main.b6b8ffa7.js.map",
     "static/css/2.786ae0dd.chunk.css": "/club-orientation/static/css/2.786ae0dd.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.786ae0dd.chunk.css",
     "static/js/2.c39543c7.chunk.js",
     "static/css/main.3130d5d7.chunk.css",
-    "static/js/main.af4957d1.chunk.js"
+    "static/js/main.16d782c9.chunk.js"
   ]
 }
