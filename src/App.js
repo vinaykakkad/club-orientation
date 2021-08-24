@@ -6,11 +6,11 @@ function App() {
   const data = [
     {
       club: "Dance Club",
-      handle: "ahduni_designclub",
+      handle: "ahduni_danceclub",
     },
     {
       club: "Design Club",
-      handle: "ahduni_danceclub",
+      handle: "ahduni_designclub",
     },
     {
       club: "Entrepreneurs' Club",
