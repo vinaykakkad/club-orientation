@@ -107,7 +107,7 @@ function App() {
         }}
       >
         <InstagramOutlined style={{ marginRight: "10px" }} />
-        Club Instagram handles
+        Ahmedabad University Clubs
       </Col>
       {data.map((item, key) => {
         return (
