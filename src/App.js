@@ -103,18 +103,19 @@ function App() {
           justifyContent: "center",
           alignItems: "center",
           textAlign: "center",
-          color: "white"
+          color: "white",
         }}
       >
         <InstagramOutlined style={{ marginRight: "10px" }} />
         Club Instagram handles
       </Col>
-      {data.map((item) => {
+      {data.map((item, key) => {
         return (
           <Col
-            xs={12}
-            md={6}
-            xl={4}
+            key={key}
+            xs={24}
+            md={12}
+            xl={6}
             style={{
               display: "flex",
               justifyContent: "center",

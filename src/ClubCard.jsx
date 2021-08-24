@@ -42,7 +42,7 @@ function ClubCard(props) {
               alignItems: "center",
               fontSize: "18px",
               fontWeight: "500",
-              color: "whitesmoke"
+              color: "whitesmoke",
             }}
           >
             {props.club}
